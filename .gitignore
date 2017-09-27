@@ -5,6 +5,7 @@ catalina.*/
 target/
 indexes/
 .idea/
+.project
 
 # The Hibernate JPAModelGen plugin currently puts the sources in generates
 # in the wrong place; they should be under target/generated-sources/, but
